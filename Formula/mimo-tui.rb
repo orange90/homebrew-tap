@@ -12,7 +12,7 @@ class MimoTui < Formula
   depends_on "libtiff"
   depends_on "little-cms2"
   depends_on "openjpeg"
-  depends_on "python@3.12"
+  depends_on "python@3.11"
   depends_on "webp"
 
   resource "aiosqlite" do
